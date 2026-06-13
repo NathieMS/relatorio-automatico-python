@@ -9,4 +9,4 @@ Envia o resumo por e-mail automaticamente: Com assunto, corpo formatado e os dad
 
 ## Como usar
 
-Execute o arquivo calculadora.py e siga as instruções.
+Execute o arquivo relatorio-automatico-python e siga as instruções.
